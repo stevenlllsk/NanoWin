@@ -1,0 +1,1 @@
+This will be a console-based file creation tool, with plans to evolve into a file editor. It’s loosely inspired by the Linux nano editor, and I’m not sure if anyone has attempted something like this before, but that doesn’t concern me. Completion isn’t guaranteed, but we’ll see how it develops.
